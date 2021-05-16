@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://Lee DongGeun.vercel.app/api?type=rect&color=auto&height=200&section=header&text=capsule%20render&fontSize=70" />
 
 <center>TECH STACK</center>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/django-#09E20?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flask-#000000?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/aws-#232F3E?style=flat-square&logo=Python&logoColor=white"/></a>
 
 <!--
 **gledong12/gledong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
